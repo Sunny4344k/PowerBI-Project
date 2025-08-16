@@ -50,3 +50,6 @@ Sales managers
 Business analysts
 
 Marketing teams
+
+## 👤 Author
+**Sayan Nandi** 
