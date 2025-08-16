@@ -1,5 +1,9 @@
 # PowerBI-Project
 This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built to track and analyze business performance across various dimensions like state, customer, category, and payment methods. The dashboard helps uncover insights on sales volume, profitability, and purchasing behavior—empowering data-driven decision-making.
+
+# Dashboard	
+ ![image alt]()
+
 # 📊 Key Highlights
 💰 Total Sales: ₹438K
 
@@ -50,6 +54,10 @@ Sales managers
 Business analysts
 
 Marketing teams
+
+# 🚀 How to Use
+	1.	Clone or download this repository.
+	2.	Open the .pbix file with Power BI Desktop.
 
 ## 👤 Author
 **Sayan Nandi** 
